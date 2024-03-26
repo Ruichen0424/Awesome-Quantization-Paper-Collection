@@ -1,6 +1,9 @@
 # Awesome Quantization Paper Collection
 
 
+- [2024](#2024)
+  - [AAAI](#aaai-2024)
+
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
@@ -50,6 +53,77 @@
   - [AAAI](#aaai-2018)
 
   
+
+# 2024
+
+
+## AAAI-2024
+
+
+- Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27785)] [[arxiv](https://arxiv.org/abs/2402.08383)] [[paper with code](https://paperswithcode.com/paper/uncertainty-quantification-for-forward-and)] [[code](https://github.com/ai4science-westlakeu/le-pde-uq)]
+
+- Expand-and-Quantize: Unsupervised Semantic Segmentation Using High-Dimensional Space and Product Quantization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28056)] [[arxiv](https://arxiv.org/abs/2312.07342)] [[paper with code](https://paperswithcode.com/paper/expand-and-quantize-unsupervised-semantic)]
+
+- Bi-ViT: Pushing the Limit of Vision Transformer Quantization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28109)] [[arxiv](https://arxiv.org/abs/2305.12354)] [[paper with code](https://paperswithcode.com/paper/bi-vit-pushing-the-limit-of-vision)]
+
+- HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28261)] [[arxiv](https://arxiv.org/abs/2401.07212)] [[paper with code](https://paperswithcode.com/paper/hihpq-hierarchical-hyperbolic-product)]
+
+- Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28508)] [[arxiv](https://arxiv.org/abs/2308.09065)] [[paper with code](https://paperswithcode.com/paper/discretization-induced-dirichlet-posterior)] [[code](https://github.com/ensta-u2is/dido)]
+
+- VQCNIR: Clearer Night Image Restoration with Vector-Quantized Codebook [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28623)] [[arxiv](https://arxiv.org/abs/2312.08606)] [[paper with code](https://paperswithcode.com/paper/vqcnir-clearer-night-image-restoration-with)] [[code](https://github.com/alexzou14/vqcnir)]
+
+- CEGAR-Based Approach for Solving Combinatorial Optimization Modulo Quantified Linear Arithmetics Problems [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28654)]
+
+- Robustness-Guided Image Synthesis for Data-Free Quantization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28972)] [[arxiv](https://arxiv.org/abs/2310.03661)] [[paper with code](https://paperswithcode.com/paper/robustness-guided-image-synthesis-for-data)]
+
+- Uncertainty Quantification for Data-Driven Change-Point Learning via Cross-Validation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29008)] [[arxiv](https://arxiv.org/abs/2312.11319)]
+
+- Make RepVGG Greater Again: A Quantization-Aware Approach [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29045)] [[arxiv](https://arxiv.org/abs/2212.01593)] [[paper with code](https://paperswithcode.com/paper/make-repvgg-greater-again-a-quantization)] [[code](https://github.com/2023-MindSpore-4/Code14/tree/main/RepVGG)]
+
+- Selective Focus: Investigating Semantics Sensitivity in Post-training Quantization for Lane Detection [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29080)]
+
+- MetaMix: Meta-State Precision Searcher for Mixed-Precision Activation Quantization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29212)] [[arxiv](https://arxiv.org/abs/2311.06798)] [[paper with code](https://paperswithcode.com/paper/metamix-meta-state-precision-searcher-for)]
+
+- OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large Language Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29237)] [[arxiv](https://arxiv.org/abs/2306.02272)] [[paper with code](https://paperswithcode.com/paper/owq-lessons-learned-from-activation-outliers)] [[code](https://github.com/xvyaward/owq)]
+
+- One-Step Forward and Backtrack: Overcoming Zig-Zagging in Loss-Aware Quantization Training [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29336)] [[arxiv](https://arxiv.org/abs/2401.16760)] [[paper with code](https://paperswithcode.com/paper/one-step-forward-and-backtrack-overcoming-zig)] [[code](https://github.com/paperProof24/Appendix_BLAQ)]
+
+- QCS-SGM+: Improved Quantized Compressed Sensing with Score-Based Generative Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29347)]
+
+- AQ-DETR: Low-Bit Quantized Detection Transformer with Auxiliary Queries [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29487)]
+
+- PTMQ: Post-training Multi-Bit Quantization of Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29553)]
+
+- VQ-FONT: Few-Shot Font Generation with Structure-Aware Enhancement and Quantization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29577)] [[arxiv](https://arxiv.org/abs/2308.14018)] [[paper with code](https://paperswithcode.com/paper/vq-font-few-shot-font-generation-with)] [[code](https://github.com/yaomingshuai/vq-font)]
+
+- How to Trade Off the Quantity and Capacity of Teacher Ensemble: Learning Categorical Distribution to Stochastically Employ a Teacher for Distillation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29746)]
+
+- What Makes Quantization for Large Language Model Hard? An Empirical Study from the Lens of Perturbation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29765)]
+
+- Norm Tweaking: High-Performance Low-Bit Quantization of Large Language Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29815)] [[arxiv](https://arxiv.org/abs/2309.02784)] [[paper with code](https://paperswithcode.com/paper/norm-tweaking-high-performance-low-bit)]
+
+- Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29860)] [[arxiv](https://arxiv.org/abs/2312.05693)] [[paper with code](https://paperswithcode.com/paper/agile-quant-activation-guided-quantization)]
+
+- Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29908)] [[arxiv](https://arxiv.org/abs/2303.08302)]
+
+- Quantifying and Analyzing Entity-Level Memorization in Large Language Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29948)] [[arxiv](https://arxiv.org/abs/2308.15727)] [[paper with code](https://paperswithcode.com/paper/quantifying-and-analyzing-entity-level)]
+
+- Uncertainty Quantification in Heterogeneous Treatment Effect Estimation with Gaussian-Process-Based Partially Linear Model [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30025)] [[arxiv](https://arxiv.org/abs/2312.10435)] [[paper with code](https://paperswithcode.com/paper/uncertainty-quantification-in-heterogeneous)] [[code](https://github.com/holyshun/GP-PLM)]
+
+- Robust Uncertainty Quantification Using Conformalised Monte Carlo Prediction [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30084)] [[arxiv](https://arxiv.org/abs/2308.09647)] [[paper with code](https://paperswithcode.com/paper/robust-uncertainty-quantification-using)] [[code](https://github.com/team-daniel/mc-cp)]
+
+- Towards Efficient Verification of Quantized Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30108)] [[arxiv](https://arxiv.org/abs/2312.12679)] [[paper with code](https://paperswithcode.com/paper/towards-efficient-verification-of-quantized)] [[code](https://github.com/huangdiudiu/eqv)]
+
+- Q-SENN: Quantized Self-Explaining Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30145)] [[arxiv](https://arxiv.org/abs/2312.13839)] [[paper with code](https://paperswithcode.com/paper/q-senn-quantized-self-explaining-neural)] [[code](https://github.com/thomasnorr/q-senn)]
+
+- Quantile-Based Maximum Likelihood Training for Outlier Detection [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30159)] [[arxiv](https://arxiv.org/abs/2310.06085)] [[paper with code](https://paperswithcode.com/paper/quantile-based-maximum-likelihood-training)] [[code](https://github.com/taghikhah/quantod)]
+
+- Physics-Informed Representation and Learning: Control and Risk Quantification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30169)] [[arxiv](https://arxiv.org/abs/2312.10594)] [[paper with code](https://paperswithcode.com/paper/physics-informed-representation-and-learning)] [[code](https://github.com/jacobwang925/path-integral-pinn)]
+
+- Quantile-Regression-Ensemble: A Deep Learning Algorithm for Downscaling Extreme Precipitation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30193)]
+
+- Quantifying Political Polarization through the Lens of Machine Translation and Vicarious Offense [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30288)]
+
 
 # 2023
 
